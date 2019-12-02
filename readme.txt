@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple.
 =======
 2
 >>>>>>> dev
+Git is a free software ...
