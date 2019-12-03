@@ -9,4 +9,8 @@ Creating a new branch is quick AND simple.
 =======
 2
 >>>>>>> dev
+<<<<<<< Updated upstream
 Git is a free software ...
+=======
+3
+>>>>>>> Stashed changes
